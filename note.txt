@@ -1,0 +1,16 @@
+MongoDB and NodeJS must be pre installed
+
+install all these dependencies using npm
+
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-sanitizer": "^1.0.4",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.3.15"
+
+To start mongod.exe:
+
+"C:\Program Files\MongoDB\Server\4.0\bin\mongod.exe" --dbpath="C:\Users\Abhishek\Desktop\BlogApp\blogData"
+
+The --dbpath option points to your database directory.
